@@ -1,3 +1,6 @@
+mpv.conf
+
+```
 # 高优先级
 priority=high
 
@@ -32,3 +35,4 @@ no-border
 ontop
 focus-on-open
 snap-window=yes
+```
